@@ -145,7 +145,6 @@ int main() {
 ---
 
 ## Purpose of This Project
-This Vector implementation demonstrates core C++ competencies:
 
 - Manual memory management  
 - Correct use of move semantics  
@@ -155,9 +154,5 @@ This Vector implementation demonstrates core C++ competencies:
 - Safe and modern C++ patterns  
 - Integration with STL algorithms and range-based loops  
 
-It is suitable for:
-- University assignments  
-- Portfolio showcasing  
-- Teaching examples  
-- A foundation for more advanced numerical libraries  
+
 
